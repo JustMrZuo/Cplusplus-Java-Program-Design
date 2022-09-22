@@ -1,2 +1,2 @@
 # Cplusplus-Java-Program-Design
-C++、Java程序设计课后作业
+C++、Java程序设计代码学习。
